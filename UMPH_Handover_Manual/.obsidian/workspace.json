@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "c1669a375a0ca4ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "2511511f6ec89e03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "561bc60560677e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_API_&_TRACKING/01_ER System API/concepts/enroll/Enroll Coordinator Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enroll Coordinator Management"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae6729e40aa78bb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4379e1dfcf0c1286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c75ea054ee827ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d69eb983b2fc950b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2abaa8ff7834ad8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "07997d07ec439c1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c31c9f06484fbeaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b3c6e53fad4ee3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04_API_&_TRACKING/01_ระบบลงทะเบียนเรียน.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01_ระบบลงทะเบียนเรียน"
+            }
+          },
+          {
+            "id": "fe4934e4e99f2e09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04_API_&_TRACKING/01_ระบบลงทะเบียนเรียน.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01_ระบบลงทะเบียนเรียน"
+            }
+          },
+          {
+            "id": "10c889754d02949e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bb9668569ba20f42",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3edc9359aaeaac7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04_API_&_TRACKING/01_ระบบลงทะเบียนเรียน.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01_ระบบลงทะเบียนเรียน"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "561bc60560677e7c",
+  "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "2026-03-30.md",
+    "Untitled.canvas",
+    "04_API_&_TRACKING/01_ER System API/systems/Registration Withdraw.md",
+    "04_API_&_TRACKING/01_ER System API/systems/Registration Enroll.md",
+    "01_QUERY_DATA/01_ระบบงานลงทะเบียน.md",
+    "01_QUERY_DATA/📄 00_สารบัญ Query.md.md",
+    "00_INTRO.md",
+    "01_QUERY_DATA/03_ระบบงานวิชาการ.md",
+    "04_API_&_TRACKING/01_ER System API/Home.md",
+    "04_API_&_TRACKING/02_WD System API/Home.md",
+    "04_API_&_TRACKING/01_ER System API/manuals/enroll/How to Submit Pre-Enrollment.md",
+    "04_API_&_TRACKING/01_ER System API/manuals/enroll/How to Generate Enroll Report B1.md",
+    "04_API_&_TRACKING/01_ER System API/manuals/enroll/How to Confirm Enrollment.md",
+    "04_API_&_TRACKING/01_ER System API/manuals/enroll/How to Adjust Class Seats.md",
+    "04_API_&_TRACKING/01_ER System API/decisions/Decision Index.md",
+    "04_API_&_TRACKING/01_ER System API/decisions/ADR-004 Two-Phase Enrollment Design.md",
+    "04_API_&_TRACKING/01_ER System API/decisions/ADR-003 Multi-Blueprint Enroll Sub-Modules.md",
+    "04_API_&_TRACKING/01_ER System API/concepts/enroll/Enrollment.md",
+    "04_API_&_TRACKING/01_ER System API/concepts/enroll/Enroll Section Change.md",
+    "04_API_&_TRACKING/01_ER System API/concepts/enroll/Enroll Pre-Enrollment.md",
+    "04_API_&_TRACKING/01_ER System API/concepts/enroll/Enroll Course Calendar.md",
+    "04_API_&_TRACKING/01_ER System API/concepts/enroll/Enroll Coordinator Management.md",
+    "04_API_&_TRACKING/01_ER System API/concepts/enroll/Enroll Confirm.md",
+    "04_API_&_TRACKING/02_WD System API/decisions/Decision Index.md",
+    "04_API_&_TRACKING/01_ER System API/systems",
+    "04_API_&_TRACKING/01_ER System API/manuals/enroll",
+    "04_API_&_TRACKING/01_ER System API/manuals",
+    "04_API_&_TRACKING/01_ER System API/decisions",
+    "04_API_&_TRACKING/01_ER System API/concepts/enroll",
+    "04_API_&_TRACKING/01_ER System API/concepts",
+    "04_API_&_TRACKING/02_WD System API/systems/Registration Withdraw.md",
+    "04_API_&_TRACKING/02_WD System API/manuals/withdraw/How to Submit Withdraw Request.md",
+    "04_API_&_TRACKING/02_WD System API/manuals/withdraw",
+    "04_API_&_TRACKING/02_WD System API/concepts/withdraw",
+    "04_API_&_TRACKING/02_WD System API/systems",
+    "04_API_&_TRACKING/02_WD System API/manuals"
+  ]
+}
